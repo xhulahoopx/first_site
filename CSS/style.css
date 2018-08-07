@@ -1,0 +1,67 @@
+{
+  margin:0;
+  padding:0;
+}
+
+h2{
+  text-shadow: 5px, 2px;
+}
+body{
+  background-color: #FFF0F5;
+  color: #778899;
+  font-family: Arial, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+  style="color:Tomato;"><strong>uifdhe</strong> uifhriocjur <em>icuirjcierhjciohuifchreuchiehxoiijdjdinuxneimiemx</em>
+}
+
+a{
+  text-decoration: none;
+  color:#black
+}
+a.hover{
+  text-decoration: underline;
+}
+.container{
+  width:88%;
+  margin:auto;
+}
+.button{
+    background-color:Tomato;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:hover{
+  text-decoration: underline;
+}
+
+.button:visited{
+  background-color:Violet;
+}
+
+p {
+   background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet );
+}
+
+
+p {
+    border: 1px solid black;
+    margin: 20px 20px 20px;
+    background-color: Aquamarine;
+}
+head {
+  background-image: url(flower.jpg);
+   background-position: right bottom, left top;
+   background-repeat: no-repeat,repeat;
+   padding: 15px;
+}
+
+img{
+  width: 100%;
+  length: auto;
+}
